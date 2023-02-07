@@ -123,7 +123,7 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
         <input type="hidden" name="mobile" value="<?= $_GET['mobile'] ?>">
         <button class="btn btn-lg btn-primary btn-block" type="submit">Masuk</button>
         <p class="mt-3" style="margin-bottom: 0;">
-            <a href="registrasi.php">Belum punya akun ? Daftar disini.</a>
+            <a href="registrasi.php">Belum punya akun ? Daftar disini ya.</a>
         </p>
         <p class="mt-4 mb-3 text-muted">© 2019-2020</p>
     </form>
